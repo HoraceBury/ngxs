@@ -1,3 +1,8 @@
+# NGXS Demo Project
+
+This project was created while watching [Angular NGXS Tutorial - An Alternative to Ngrx for State Management](https://www.youtube.com/watch?v=SfiO3bDUK7Q) from Coursetro.
+
+
 # Ngxs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
